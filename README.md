@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sanskritha K.S. 👋
 
-<!--
-**kssanskritha123-stack/kssanskritha123-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Interested in Software Development, AI and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Building web applications and machine learning projects.
+- Working with Python, Java and data analysis.
+- Interested in solving real-world problems through technology.
+
+## Technical Skills
+- Programming: Python, Java
+- Web: HTML, CSS, JavaScript
+- Database: MySQL, Firebase
+- Tools: Git, GitHub, Jupyter Notebook, Streamlit
+- Machine Learning: Scikit-learn, CNN, Bi-LSTM, NLP
+
+## Featured Projects
+- Smart E-Commerce Sales and Customer Behavior Analysis
+- Neonatal Cry Analyser
+- Pedestrian Crossing Intention Prediction System
+- AI Framework for Seller Trust Evaluation in E-Commerce
+
+## Certifications
+- NPTEL Software Testing — Elite
+- NPTEL Python for Data Science
+
+## Connect With Me
+- LinkedIn: https://linkedin.com/in/sanskritha-k-s-520a66355
